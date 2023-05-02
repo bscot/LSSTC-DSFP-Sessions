@@ -5,7 +5,7 @@ Schedule
 
 Day 1 – Introduction to Imaging and Detectors
 “” 
--- Person
+-- 
 Monday June 12, 2023
 09:00 AM – 09:30 AM o Welcome to Session 18, Logistics, Icebreakers
 09:30 AM – 10:30 AM o False Color Imaging; B Scott
