@@ -33,7 +33,7 @@ Tuesday, June 13, 2023
 * 05:15 PM - 06:00 PM o Problem | Solution: Photometry of Galaxies; E Huff
 * 06:00 PM - ??:?? PM o Group dinner
 
-Day 3 — Image Coalition
+Day 3 — Image Coaddition
 ""
 --
 Wednesday, June 14, 2023
