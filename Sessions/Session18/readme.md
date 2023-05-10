@@ -8,9 +8,9 @@ Day 1 – Introduction to Imaging and Detectors
 -- 
 Monday June 12, 2023
 * 09:00 AM – 09:30 AM o Welcome to Session 18, Logistics, Icebreakers
-* 09:30 AM – 10:30 AM o False Color Imaging; B Scott
+* 09:30 AM – 10:30 AM o Introduction to Wide Field Imaging; B Scott
 * 10:30 AM – 11:00 AM o Break
-* 11:00 AM – 12:00 PM o Problem| Solution; False Color Imaging: B Scott
+* 11:00 AM – 12:00 PM o Problem| Solution; Statistics of Imaging: B Scott
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Introduction to CCDs; C Saunders
 * 02:30 PM – 03:30 PM o Problem | Solution: Introduction to CCDs; C Saunders
@@ -22,12 +22,12 @@ Day 2 – Backgrounds, Astrometry, and Photometry
 ""
 -- 
 Tuesday, June 13, 2023
-* 09:00 AM - 10:00 AM o Sky Background Estimation and Source Detection; Y. AlSayyad
+* 09:00 AM - 10:00 AM o Introduction to Astrometry; C Saunders
 * 10:00 AM - 10:30 AM o Break
-* 10:30 AM - 12:00 PM o Problem: Sampling | Sampling Solution Sky Background Estimation and Source Detection; Y. AlSayyad
+* 10:30 AM - 12:00 PM o Problem | Solution: Introduction to Astrometry; C Saunders
 * 12:00 PM - 01:30 PM o LUNCH
-* 01:30 PM - 02:30 PM o Introduction to Astrometry; C Saunders
-* 02:30 PM - 04:00 PM o Problem: Introduction to Astrometry; C Saunders
+* 01:30 PM - 02:30 PM o Sky Background Estimation and Source Detection; Y. AlSayyad
+* 02:30 PM - 04:00 PM o Problem: Problem | Solution: Sky Background Estimation and Source Detection; Y. AlSayyad
 * 04:00 PM - 04:30 PM o BREAK
 * 04:30 PM - 05:15 PM o Photometry of Galaxies: E Huff
 * 05:15 PM - 06:00 PM o Problem | Solution: Photometry of Galaxies; E Huff
@@ -46,9 +46,9 @@ Day 4 — Pipelines and the Rubin Science Platform
 ""
 -- 
 Thursday, June 15, 2023
-* 09:00 AM – 10:00 AM o Imaging II, B Scott,
+* 09:00 AM – 10:00 AM o False Color Images, B Scott,
 * 10:00 AM – 10:30 AM o Break
-* 10:30 AM – 12:00 PM o Problem: Imaging II, B Scott
+* 10:30 AM – 12:00 PM o Problem: False Color Images, B Scott
 * 12:00 PM – 01:30 PM o LUNCH
 * 01:30 PM – 02:30 PM o Introduction to the Rubin Science Platform; M Graham
 * 02:30 PM – 04:00 PM o Problem Photo-z Option | Introduction to the Rubin Science Platform; M Graham
