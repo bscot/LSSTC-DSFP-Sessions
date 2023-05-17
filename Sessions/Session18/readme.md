@@ -21,7 +21,11 @@ Monday June 12, 2023
 * 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Starts; E Huff
 
 Day 2 – Backgrounds, Astrometry, and Photometry
-""
+
+"I proposed to do this, not in order to gain prestige by refuting others (this would be a paltry and petty thought; on the contrary, I believe that we must be grateful to all those who personally undertake labours for the common interest); but so that neither you nor others who are eager to know may be led astray in observing the phenomena of the cosmos."
+
+- Hipparchus, about 140-150 BCE
+
 -- 
 Tuesday, June 13, 2023
 * 09:00 AM - 10:00 AM o Introduction to Astrometry; C Saunders
@@ -36,7 +40,9 @@ Tuesday, June 13, 2023
 * 06:00 PM - ??:?? PM o Group dinner
 
 Day 3 — Image Coaddition
+
 ""
+
 --
 Wednesday, June 14, 2023
 * 09:00 AM – 09:45 AM o Image Coaddition and Subtraction; Y. AlSayyad
