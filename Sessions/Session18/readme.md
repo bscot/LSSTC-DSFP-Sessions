@@ -59,7 +59,6 @@ Wednesday, June 14, 2023
 ~ Vera Rubin 
 
 -- 
-
 Thursday, June 15, 2023
 * 09:00 AM – 10:00 AM o False Color Images, B Scott,
 * 10:00 AM – 10:30 AM o Break
