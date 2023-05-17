@@ -72,9 +72,9 @@ Thursday, June 15, 2023
 
 ## Day 5 — Observation Planning and Hack Session
 
-""
+"A schedule defends from chaos and whim. It is a net for catching days. It is a scaffolding on which a worker can stand and labor with both hands at sections of time."
 
-~
+~ Annie Dillard 
 
 -- 
 Friday, June 16, 2023
