@@ -1,10 +1,14 @@
-Session 18 
-The Eighteenth session of the LSSTC DSFP focuses on Image Processing for Wide Field Surveys
+# Session 18 
+## The Eighteenth session of the LSSTC DSFP focuses on Image Processing for Wide Field Surveys
 
-Schedule
+### Schedule
 
 Day 1 – Introduction to Imaging and Detectors
-“” 
+
+“It is believed that the results will be an astronomical bible for at least a century to come.”
+
+- In reference to the Sky Survey by the Schmidt Telescope at Palomar (1949)
+
 -- 
 Monday June 12, 2023
 * 09:00 AM – 09:30 AM o Welcome to Session 18, Logistics, Icebreakers
