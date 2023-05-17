@@ -1,9 +1,7 @@
 # Session 18 
 ## The Eighteenth session of the LSSTC DSFP focuses on Image Processing for Wide Field Surveys
 
-### Schedule
-
-Day 1 – Introduction to Imaging and Detectors
+## Day 1 – Introduction to Imaging and Detectors
 
 “It is believed that the results will be an astronomical bible for at least a century to come.”
 
