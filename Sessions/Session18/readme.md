@@ -5,7 +5,7 @@
 
 “It is believed that the results will be an astronomical bible for at least a century to come.”
 
-- In reference to the Sky Survey by the Schmidt Telescope at Palomar (1949)
+~ In reference to the Sky Survey by the Schmidt Telescope at Palomar (1949)
 
 -- 
 Monday June 12, 2023
@@ -20,11 +20,11 @@ Monday June 12, 2023
 * 04:00 PM – 05:00 PM o Point Spread Functions and Photometry of Starts; E Huff 
 * 05:00 PM – 06:00 PM o Problem | Solution: Point Spread Functions and Photometry of Starts; E Huff
 
-Day 2 – Backgrounds, Astrometry, and Photometry
+## Day 2 – Backgrounds, Astrometry, and Photometry
 
 "I proposed to do this, not in order to gain prestige by refuting others (this would be a paltry and petty thought; on the contrary, I believe that we must be grateful to all those who personally undertake labours for the common interest); but so that neither you nor others who are eager to know may be led astray in observing the phenomena of the cosmos."
 
-- Hipparchus, about 140-150 BCE
+~ Hipparchus, about 140-150 BCE
 
 -- 
 Tuesday, June 13, 2023
@@ -39,9 +39,11 @@ Tuesday, June 13, 2023
 * 05:15 PM - 06:00 PM o Problem | Solution: Photometry of Galaxies; E Huff
 * 06:00 PM - ??:?? PM o Group dinner
 
-Day 3 — Image Coaddition
+## Day 3 — Image Coaddition
 
-""
+"It’s like putting eyeglasses on for the first time."
+
+~ Wendy Freedman
 
 --
 Wednesday, June 14, 2023
@@ -50,9 +52,14 @@ Wednesday, June 14, 2023
 * 10:15 AM – 12:00 PM o Problem| Solutions: Image Coaddition and Subtraction; Y. AlSayyad
 * 12:00 PM – ??:?? PM o BREAK
 
-Day 4 — Pipelines and the Rubin Science Platform
-""
+## Day 4 — Pipelines and the Rubin Science Platform
+
+"The real prize is finding something new out there."
+
+~ Vera Rubin 
+
 -- 
+
 Thursday, June 15, 2023
 * 09:00 AM – 10:00 AM o False Color Images, B Scott,
 * 10:00 AM – 10:30 AM o Break
@@ -63,8 +70,12 @@ Thursday, June 15, 2023
 * 04:00 PM – 04:30 PM o Break
 * 04:30 PM – 05:00 PM o Hack Pitch Session
 
-Day 5 — Observation Planning and Hack Session
+## Day 5 — Observation Planning and Hack Session
+
 ""
+
+~
+
 -- 
 Friday, June 16, 2023
 * 9:00 AM - 9:45 AM o Rubin Scheduling: E Bellm 
