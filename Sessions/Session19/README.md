@@ -16,15 +16,14 @@ A Brief Introduction to git/GitHub; B Scott
 
 
 Saturday, Sep 9, 2023 
-* 09:00 AM - 9:30 AM Registration
-* 09:30 AM - 10:00 AM Introductions
-* 10:00 AM - 10:30 AM Incoming Student Survey 
-* 10:30 AM - 12:00 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; L. Walkowicz
-* 12:00 PM - 12:15 PM Goals of the DSFP; B Scott
-* 12:15 PM - 01:30 PM LUNCH 
+* 10:30 AM - 11:00 AM Registration & Introductions,
+* 11:00 AM - 11:30 AM Incoming Student Survey 
+* 11:30 AM - 12:15 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; A Miller
+* 12:15 PM - 12:30 PM Goals of the DSFP; B Scott
+* 12:30 PM - 01:30 PM LUNCH (provided) & Discussion of the Code of Conduct
 * 01:30 PM - 02:30 PM [Introduction to Classical Statistics]()
 * 02:30 PM - 03:30 PM [Introduction to Bayesian Statistics]()
-* 04:00 PM - ??? Break
+* 03:30 PM - ??? Break
  
 ## Day 1 – A Gentle Introduction to Machine Learning 
 
