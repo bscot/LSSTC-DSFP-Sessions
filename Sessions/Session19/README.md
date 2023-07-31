@@ -38,16 +38,16 @@ Sunday, Sep 10, 2023
 
  * 09:00 AM – 09:30 AM  o  Introduction of Cohort 7 and the new instructors
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
- * 09:45 AM – 10:30 AM  o  [Introduction to Machine Learning](Day1/IntroductionToMachineLearning.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) [:movie_camera:](https://youtu.be/Aku6QbRXZR4)
+ * 09:45 AM – 10:30 AM  o  [Introduction to Machine Learning](); B. Scott
  * 10:30 AM – 11:00 AM  o  Break
- * 11:00 AM – 12:00 PM  o  [Problem: Introduction to scikit-learn](Day1/IntroToScikitLearn.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day1/IntroToScikitLearnSolutions.ipynb)
+ * 11:00 AM – 12:00 PM  o  [Problem: Introduction to ML](Day1/IntroToScikitLearn.ipynb); B. Scott
  * 12:00 PM – 01:30 PM  o  LUNCH
- * 01:30 PM – 03:00 PM  o  [Introduction to Unsupervised Learning](Day1/IntroductionToUnsupervisedLearning.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) [:movie_camera:](https://youtu.be/6wel-K10OkI) – [Problems](Day1/Clustering.ipynb), [Solutions](Day1/ClusteringSolutions.ipynb)
- * 03:00 PM – 03:30 PM  o  Break
- * 03:30 PM – 04:30 PM  o [Introduction to supervised learning](Day1/IntroductionToSupervisedMachineLearning.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) [:movie_camera:](https://youtu.be/KtIUGQLgXyo)
- * 04:30 PM – 06:00 PM  o  [Problem: Separating stars and galaxies in SDSS images](Day1/SeparatingStarsAndGalaxies.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day1/SeparatingStarsAndGalaxiesSolutions.ipynb)
+ * 01:30 PM – 02:15 PM  o  [Introduction to Feature Engineering]; A. Miller
+ * 02:15 PM – 03:15 PM  o  Break
+ * 03:15 PM – 04:00 PM  o [Introduction to Dimensionality Reduction]; B. Scott 
+ * 04:00 PM – 05:00 PM  o  [Problem: Introduction to Dimensionality Reduction]; B. Scott 
  
-## Day 2 – Feature Engineering 
+## Day 2 – Supervised and Unsupervised ML 
 
 "I have an infinite capacity for knowledge, and even I'm not sure what is going on outside..."
 
@@ -55,14 +55,14 @@ Sunday, Sep 10, 2023
 
 
 Monday, Sep 11, 2023
- * 09:00 AM – 10:00 AM  o [Feature Engineering](Day2/FeatureEngineering.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) [:movie_camera:](https://youtu.be/Lpp-BErTC_0)
+ * 09:00 AM – 10:00 AM  o [Introduction to Supervised Machine Learning] V. Acquaviva
  * 10:00 AM – 10:30 AM  o  Break
- * 10:30 AM – 12:00 PM  o  [Problem – Developing Features for Time Series Classification](Day2/FeatureEngineering.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) – [Solutions](Day2/FeatureEngineeringSolutions.ipynb)
+ * 10:30 AM – 12:00 PM  o  [Problem – Introduction to Supervised Machine Learning] V. Acquaviva
 * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 03:00 PM  o  [Building Perceptrons for Classification](Day2/BuildingPerceptronsForClassification.ipynb); A. Miller [:octocat:](https://github.com/adamamiller) [:movie_camera:](https://youtu.be/qZ-_WRIsbYI) – [Solutions](BuildingPerceptronsForClassificationSolutions.ipynb)
+ * 01:30 PM – 03:00 PM  o  [Introduction to Unsupervised Machine Learning] V. Acquaviva
 * 03:00 PM - 03:30 PM o BREAK 
-* 03:30 PM - 05:15 PM o 
-* 05:15 PM - 06:00 PM o 
+* 03:30 PM - 05:15 PM o [Problem: Introduction to Unsupervised Machine Learning] V. Acquaviva
+* 05:15 PM - 06:00 PM o [Problem: The Perceptron] A. Miller or B. Scott 
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
