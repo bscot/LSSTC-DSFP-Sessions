@@ -71,9 +71,9 @@ Monday, Sep 11, 2023
 -- Lt. Cmdr. Data (*Star Trek: The Next Generation*)
 
 Tuesday, Sep 12, 2023
-* 09:00 AM – 09:45 AM o  [Introduction to Autoencoders], V. Acquaviva
+* 09:00 AM – 09:45 AM o  [Advanced Topic], V. Acquaviva
 * 09:45 AM – 10:15 AM o Break 
-* 10:15 AM – 12:00 PM o  [Problem: Introduction to Autoencoders]() V. Acquaviva
+* 10:15 AM – 12:00 PM o  [Problem: Advanced Topic]() V. Acquaviva
 * 12:00 PM – ??:?? PM o BREAK 
 
 ## Day 4 — Graph Neural Networks and Statistical Learning 
