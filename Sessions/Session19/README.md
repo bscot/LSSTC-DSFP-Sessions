@@ -64,7 +64,7 @@ Monday, Sep 11, 2023
 * 05:15 PM - 06:00 PM o [Problem: Convolutional Neural Networks]() J Woo
 * 06:00 PM - ??:?? PM o Group dinner 
  
-## Day 3 — Convolutional Neural Networks 
+## Day 3 — Topic TBA
 
 "I am capable of distinguishing over one hundred and fifty simultaneous compositions. But in order to analyze the aesthetics, I try to keep it to ten or less."
 
