@@ -100,10 +100,10 @@ Wednesday, Sep 13, 2023
 -- HAL 9000 (*2001: A Space Odyssey*)
 
 Thursday, Sep 14, 2023
-* 9:00 AM - 9:45 AM o Professional Development: 
+* 9:00 AM - 10:00  AM o [Lecture: The Upper Confidence Bound](); Ari
 * 09:45 AM – 10:45 AM o [Lecture: The Upper Confidence Bound](); Ari
 * 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o [Problem: The Upper Confidence Bound](); Ari
+* 11:00 AM – 12:00 PM o Professional Development
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
