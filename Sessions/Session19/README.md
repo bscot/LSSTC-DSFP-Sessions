@@ -39,7 +39,7 @@ Sunday, Sep 10, 2023
  * 09:30 AM – 09:45 AM  o  Introduction to Hack Sessions
  * 09:45 AM – 10:30 AM  o  [Introduction to Machine Learning](); B. Scott
  * 10:30 AM – 11:00 AM  o  Break
- * 11:00 AM – 12:00 PM  o  [Problem: Introduction to ML](Day1/IntroToScikitLearn.ipynb); B. Scott
+ * 11:00 AM – 12:00 PM  o  [Problem: Introduction to ML](); B. Scott
  * 12:00 PM – 01:30 PM  o  LUNCH
  * 01:30 PM – 02:15 PM  o  [Introduction to Unsupervised Learning]; A. Miller
  * 02:15 PM – 03:15 PM  o  Break
@@ -59,10 +59,10 @@ Monday, Sep 11, 2023
  * 10:30 AM – 11:00 AM  o  Break
  * 11:00 AM – 12:00 PM  o [Problem – Introduction to Supervised Machine Learning] V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 02:30 PM  o Tree Based Methods 
- * 02:30 PM – 03:00 PM  o Problem: Tree Based Methods
-* 03:00 PM - 03:30 PM o BREAK 
-* 03:30 PM - 04:30 PM o [Live Code: The Perceptron] A. Miller or B. Scott 
+ * 01:30 PM – 02:30 PM  o Tree & Ensemble Methods 
+ * 02:30 PM – 03:30 PM  o Problem: Tree & Ensemble  Methods
+* 03:30 PM - 04:00 PM o BREAK 
+* 04:00 PM - 05:00 PM o [Live Code: The Perceptron] A. Miller or B. Scott 
 * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Topic TBA
@@ -73,9 +73,10 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 04:00 PM - 05:00 PM o [Convolutional Neural Networks](), J Woo 
-* 05:00 PM - 06:00 PM o [Problem: Convolutional Neural Networks]() J Woo
-* 06:00 PM - ??:?? PM o Group dinner 
+* 09:00 AM - 10:00 AM o [Convolutional Neural Networks](), J Wu 
+* 10:00 AM - 10:30 AM o BREAK
+* 10:30 AM - 12:00 PM o [Problem: Convolutional Neural Networks]() J Wu
+* 12:00 PM - ??:?? PM o BREAK
 
 ## Day 4 — Graph Neural Networks and Statistical Learning 
 
@@ -84,12 +85,12 @@ Tuesday, Sep 12, 2023
 -- Rachael (*Blade Runner*)
 
 Wednesday, Sep 13, 2023 
-* 09:00 AM – 10:00 AM o Graph Neural Networks [Part 1](); J Woo
+* 09:00 AM – 10:00 AM o Graph Neural Networks [Part 1](); J Wu
 * 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o Problem: Graph Neural Networks [Solutions](); J Woo
+* 10:30 AM – 12:00 PM o Problem: Graph Neural Networks [Solutions](); J Wu
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Lecture: Thompson Sampling; Ari
-* 02:30 PM – 04:00 PM o Problem: Thompson Sampling; Ari 
+* 01:30 PM – 02:30 PM o Lecture: Thompson Sampling; Ari [Lecture: The Upper Confidence Bound](); A Sravan
+* 02:30 PM – 04:00 PM o Problem: Thompson Sampling; Ari [Lecture: The Upper Confidence Bound](); A Sravan
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
@@ -100,10 +101,10 @@ Wednesday, Sep 13, 2023
 -- HAL 9000 (*2001: A Space Odyssey*)
 
 Thursday, Sep 14, 2023
-* 9:00 AM - 10:00  AM o [Lecture: The Upper Confidence Bound](); Ari
-* 09:45 AM – 10:45 AM o [Lecture: The Upper Confidence Bound](); Ari
+* 9:00 AM - 10:00  AM o Lecture: Thompson Sampling; A Sravan
+* 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A Sravan
 * 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o Professional Development
+* 11:00 AM – 12:00 PM o Professional Development: CV Workshop; V. Toy-Edens
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
